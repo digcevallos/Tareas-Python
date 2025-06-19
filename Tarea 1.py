@@ -25,7 +25,7 @@ class Coche:
         self.acelerar = acelerar
     
     def mi_vehiculo(self):
-        print('Acelera el vehiculo a: ')
+        print('Acelera el vehiculo 🚚 a: ')
 
 
 mi_auto = Coche('Kia', 150)
